@@ -1,7 +1,7 @@
 # Credit-Card-Approval-Prediction
 Banks receive a lot of applications for issuance of credit cards. Many of them rejected for many reasons, like high-loan balances, low-income levels, or too many inquiries on an individual’s credit report. Manually analyzing these applications is error-prone and a time-consuming process. This task can be automated with the power of machine learning. The project provides the credit card approval predictor using different machine learning algorithm , just like the real banks do.
 
-![Credit_card_approval_image](https://github.com/damaniayesh/Credit-Card-Approval-Prediction/assets/136892684/cf6afe08-be94-447e-8a64-e815e594cc16)
+![Credit_card_approval_image]([https://github.com/damaniayesh/Credit-Card-Approval-Prediction/assets/136892684/cf6afe08-be94-447e-8a64-e815e594cc16](https://cdn.wallethub.com/images/best-credit-cards/logo-1582317968_1546v.png))
 
 
 # Consider the data present in the Credit Card Approval dataset file.
@@ -43,6 +43,14 @@ C: paid off that month
 
 # Problem Statement
 To create a model that can predict whether an individual’s application for a credit card will be accepted or not.
+
+# Steps Followed for the Project
+To get a basic introduction of our project & What’s the business problem associated with it ?
+We’ll start by loading and viewing the dataset.
+To manipulate data, if there are any missing entries in the dataset.
+To perform exploratory data analysis (EDA) on our dataset.
+To pre-process data before applying machine learning model to the dataset.
+To apply machine learning models that can predict if an individual’s application for a credit card will be accepted or not.
 
 # Conclusion
 Performed various Machine Learning Algorithms among them KNN is performing well in terms of predicting my class 1, which is my class of importance where I want the model to be predict precisely in terms of rest of the class.
