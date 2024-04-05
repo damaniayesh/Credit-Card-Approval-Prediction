@@ -45,11 +45,11 @@ C: paid off that month
 To create a model that can predict whether an individual’s application for a credit card will be accepted or not.
 
 # Steps Followed for the Project
-To get a basic introduction of our project & What’s the business problem associated with it ?
-We’ll start by loading and viewing the dataset.
-To manipulate data, if there are any missing entries in the dataset.
-To perform exploratory data analysis (EDA) on our dataset.
-To pre-process data before applying machine learning model to the dataset.
+To get a basic introduction of our project & What’s the business problem associated with it ? <br>
+We’ll start by loading and viewing the dataset. <br>
+To manipulate data, if there are any missing entries in the dataset. <br>
+To perform exploratory data analysis (EDA) on our dataset. <br>
+To pre-process data before applying machine learning model to the dataset. <br>
 To apply machine learning models that can predict if an individual’s application for a credit card will be accepted or not.
 
 # Conclusion
