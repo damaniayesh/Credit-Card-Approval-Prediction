@@ -1,7 +1,7 @@
 # Credit-Card-Approval-Prediction
 Banks receive a lot of applications for issuance of credit cards. Many of them rejected for many reasons, like high-loan balances, low-income levels, or too many inquiries on an individual’s credit report. Manually analyzing these applications is error-prone and a time-consuming process. This task can be automated with the power of machine learning. The project provides the credit card approval predictor using different machine learning algorithm , just like the real banks do.
 
-![image.png](attachment:52322583-17f4-4395-a66f-44ec18f5281f.png)
+<img src="https://isaiminis.com/wp-content/uploads/2021/10/How-to-get-your-first-credit-card-approval-in-easy-steps.jpg" alt="CreditCard_Image>
 
 # Consider the data present in the Credit Card Approval dataset file.
 Following is the attribute related information:
